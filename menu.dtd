@@ -12,4 +12,3 @@
 <!ELEMENT image (#PCDATA)>
 <!ELEMENT price (#PCDATA)>
 <!ELEMENT sizes (size+)>
-<!ELEMENT size (type, price)>
