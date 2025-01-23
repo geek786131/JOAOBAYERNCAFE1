@@ -13,5 +13,3 @@
 <!ELEMENT price (#PCDATA)>
 <!ELEMENT sizes (size+)>
 <!ELEMENT size (type, price)>
-<!ELEMENT type (#PCDATA)>
-<!ELEMENT price (#PCDATA)>
